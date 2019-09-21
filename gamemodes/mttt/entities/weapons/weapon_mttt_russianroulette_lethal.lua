@@ -39,7 +39,7 @@ SWEP.Tracer                = "AR2Tracer"
 
 SWEP.UseHands              = true
 SWEP.ViewModel             = Model("models/weapons/fa_sw686/v_fa_sw686.mdl")
-SWEP.WorldModel            = Model("models/weapons/fa_sw686/w_fa_sw686.mdl")
+SWEP.WorldModel            = Model("models/weapons/w_357.mdl")
 
 local inUse = false
 
